@@ -1,0 +1,1 @@
+dism /export-image /sourceimagefile:install.esd /sourceindex:1 /destinationimagefile:install.wim /compress:max /checkintegrity
